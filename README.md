@@ -1,2 +1,0 @@
-# bank_java
-# bank
